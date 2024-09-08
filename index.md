@@ -27,3 +27,13 @@ If you're thinking "The Cloud Who?", or "Who are Phippy and Friends?" [Learn abo
 
 
 You can learn more about Phippy and Friends at [this](https://www.cncf.io/phippy/) page. 
+
+
+---
+
+<p align="center">This site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> license.</p>
+<p align="center">Created by <a href="https://www.linkedin.com/in/mihir-gupta-746427311/">Mihir Gupta</a></p>
+
+
+
+
