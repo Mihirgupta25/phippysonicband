@@ -1,10 +1,13 @@
 # Phippy's Sonic Band
 
+[![TITLE COVER](/TITLE%20COVER%20Phippys%20sonic%20band.jpg)](/TITLE%20COVER%20Phippys%20sonic%20band.jpg)
+
+
 Hey you! Yes, you! 
 
 Do you want to help Phippy and friends save The Cloud Hoppers' concert? If you are thinking, "Yes! That sounds like fun!" follow the instructions below. 
 
-If you're thinking "The Cloud Who?", or "Who are Phippy and friends?" [Learn about](https://docs.google.com/document/d/1pcQKUk2zzgHbLET4gbdKOFGReLE9c6RszYZLpw-XYO0/edit) the latest adventure of Phippy and her friends. 
+If you're thinking "The Cloud Who?", or "Who are Phippy and Friends?" [Learn about](https://docs.google.com/document/d/1pcQKUk2zzgHbLET4gbdKOFGReLE9c6RszYZLpw-XYO0/edit) the latest adventure of Phippy and her friends. 
 
 ## Instructions
   
