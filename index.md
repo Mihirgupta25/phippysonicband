@@ -1,13 +1,13 @@
 # Phippy's Sonic Band
 
-[![TITLE COVER](/cloud-hoppers.png)](/cloud-hoppers.png)
+ [![TITLE COVER](/phippy-sonic-band-cover.jpg)](/phippy-sonic-band-cover.jpg)
 
 
 Hey you! Yes, you! 
 
 Do you want to help Phippy and friends save The Cloud Hoppers' concert? If you are thinking, "Yes! That sounds like fun!" follow the instructions below. 
 
-If you're thinking "The Cloud Who?", or "Who are Phippy and Friends?" [Learn about](https://docs.google.com/document/d/1pcQKUk2zzgHbLET4gbdKOFGReLE9c6RszYZLpw-XYO0/edit) the latest adventure of Phippy and her friends. 
+If you're thinking "The Cloud Who?", or "Who are Phippy and Friends?" [Read about](https://www.amazon.com/Phippys-Sonic-Band-Mihir-Gupta/dp/1965670008) the latest adventure of Phippy and her friends. 
 
 ## Instructions
   
@@ -23,10 +23,10 @@ If you're thinking "The Cloud Who?", or "Who are Phippy and Friends?" [Learn abo
 
 ### 3. Save the Concert!
 
-   When you finish the workshop, flip the page in the book and save the concert with your music! Once you do so, feel free to explore Somic Pi further. 
+   When you finish the workshop, flip the page in the book and save the concert with your music! Once you do so, feel free to explore Sonic Pi further. 
 
 
-You can learn more about Phippy and Friends at [this](https://www.cncf.io/phippy/) page. 
+You can learn more about Phippy and Friends on the [this](https://www.cncf.io/phippy/) page. 
 
 
 ---
