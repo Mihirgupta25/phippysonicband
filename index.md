@@ -1,6 +1,6 @@
 # Phippy's Sonic Band
 
-[![TITLE COVER](/TITLE%20COVER%20Phippys%20sonic%20band.jpg)](/TITLE%20COVER%20Phippys%20sonic%20band.jpg)
+[![TITLE COVER](/cloud-hoppers.png)](/cloud-hoppers.png)
 
 
 Hey you! Yes, you! 
