@@ -17,7 +17,7 @@ If you're thinking "The Cloud Who?", or "Who are Phippy and Friends?" [Read abou
 
 ### 2. Follow the workshop instructions
 
-   Open the [workshop instructions](Sonic Pi Workshop.pdf) in a separate window to keep it handy.
+   Open the [workshop instructions](https://github.com/Mihirgupta25/phippysonicband/blob/main/Sonic%20Pi%20Workshop.pdf) in a separate window to keep it handy.
 
    Follow the instructions in Sonic Pi! Feel free to experiment as you follow along.
 
